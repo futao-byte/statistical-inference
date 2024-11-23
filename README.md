@@ -1,1 +1,1 @@
-# statistical-inference-e
+# statistical-inference
